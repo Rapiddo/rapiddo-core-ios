@@ -1,2 +1,3 @@
 # rapiddo-core-ios
-🛠Create your own Rapiddo mini-apps
+A framework that allows you to create your own Rapiddo mini-apps.
+Coming soon...
